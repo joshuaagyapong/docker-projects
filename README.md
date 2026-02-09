@@ -12,8 +12,8 @@ The goal was to design a production-aligned container workflow that includes loc
 ---
 
 ## Architecture
+![Architecture Diagram](https://github.com/user-attachments/assets/c72f24e6-721b-48dd-9af8-169b6b905da3)
 
-![Architecture Diagram](./docs/architecture.png)
 
 ### Traffic Flow
 
