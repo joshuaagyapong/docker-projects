@@ -1,0 +1,30 @@
+# Git metadata
+.git
+.gitignore
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Documentation (not needed at runtime)
+README.md
+docs/
+
+# ECS / infrastructure configs (runtime-only)
+ecs/
+
+# Environment files / secrets
+.env
+.env.*
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
