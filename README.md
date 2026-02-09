@@ -1,4 +1,3 @@
-
 # Jupiter Static Web Application  
 **Production-Aligned Container Deployment on AWS ECS using Docker and Amazon ECR**
 
